@@ -1,6 +1,6 @@
 
 
-import java.lang.Math; // headers MUST be above the first class
+import java.lang.Math; 
 import java.util.*;
 
 
